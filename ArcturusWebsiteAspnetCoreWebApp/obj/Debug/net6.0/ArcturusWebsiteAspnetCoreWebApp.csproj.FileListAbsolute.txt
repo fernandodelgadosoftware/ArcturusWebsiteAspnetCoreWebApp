@@ -5,7 +5,6 @@ C:\Users\admin\source\repos\ArcturusWebsiteAspnetCoreWebApp\ArcturusWebsiteAspne
 C:\Users\admin\source\repos\ArcturusWebsiteAspnetCoreWebApp\ArcturusWebsiteAspnetCoreWebApp\bin\Debug\net6.0\ArcturusWebsiteAspnetCoreWebApp.deps.json
 C:\Users\admin\source\repos\ArcturusWebsiteAspnetCoreWebApp\ArcturusWebsiteAspnetCoreWebApp\bin\Debug\net6.0\ArcturusWebsiteAspnetCoreWebApp.runtimeconfig.json
 C:\Users\admin\source\repos\ArcturusWebsiteAspnetCoreWebApp\ArcturusWebsiteAspnetCoreWebApp\bin\Debug\net6.0\ArcturusWebsiteAspnetCoreWebApp.dll
-C:\Users\admin\source\repos\ArcturusWebsiteAspnetCoreWebApp\ArcturusWebsiteAspnetCoreWebApp\bin\Debug\net6.0\ref\ArcturusWebsiteAspnetCoreWebApp.dll
 C:\Users\admin\source\repos\ArcturusWebsiteAspnetCoreWebApp\ArcturusWebsiteAspnetCoreWebApp\bin\Debug\net6.0\ArcturusWebsiteAspnetCoreWebApp.pdb
 C:\Users\admin\source\repos\ArcturusWebsiteAspnetCoreWebApp\ArcturusWebsiteAspnetCoreWebApp\obj\Debug\net6.0\ArcturusWebsiteAspnetCoreWebApp.csproj.AssemblyReference.cache
 C:\Users\admin\source\repos\ArcturusWebsiteAspnetCoreWebApp\ArcturusWebsiteAspnetCoreWebApp\obj\Debug\net6.0\ArcturusWebsiteAspnetCoreWebApp.GeneratedMSBuildEditorConfig.editorconfig
@@ -28,3 +27,4 @@ C:\Users\admin\source\repos\ArcturusWebsiteAspnetCoreWebApp\ArcturusWebsiteAspne
 C:\Users\admin\source\repos\ArcturusWebsiteAspnetCoreWebApp\ArcturusWebsiteAspnetCoreWebApp\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\admin\source\repos\ArcturusWebsiteAspnetCoreWebApp\ArcturusWebsiteAspnetCoreWebApp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
 C:\Users\admin\source\repos\ArcturusWebsiteAspnetCoreWebApp\ArcturusWebsiteAspnetCoreWebApp\obj\Debug\net6.0\ArcturusWebsiteAspnetCoreWebApp.csproj.CopyComplete
+C:\Users\admin\source\repos\ArcturusWebsiteAspnetCoreWebApp\ArcturusWebsiteAspnetCoreWebApp\obj\Debug\net6.0\refint\ArcturusWebsiteAspnetCoreWebApp.dll

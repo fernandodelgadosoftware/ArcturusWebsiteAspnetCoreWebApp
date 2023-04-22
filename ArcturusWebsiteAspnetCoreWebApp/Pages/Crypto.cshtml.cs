@@ -14,11 +14,14 @@ namespace ArcturusWebsiteAspnetCoreWebApp.Pages
         public string BtcPrice()
         {
             string priceTicker = DataFromApi();
-            string priceFeed = DeserialTicker(priceTicker);
+            string decimalVar = DeserialTicker(priceTicker);
+            decimal btcPrice;
+            decimal.TryParse(decimalVar, out btcPrice);
+            decimal btcPriceRound = decimal.Round(btcPrice, 2, MidpointRounding.AwayFromZero);
+            string dollarValue = string.Format("{0:C2}", btcPrice);
 
-                                                   
-            return priceFeed;
-
+            //return btcPriceRound;
+            return dollarValue;
         }
 
         public static string DeserialTicker(string priceTicker)
